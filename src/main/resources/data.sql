@@ -1,0 +1,10 @@
+INSERT INTO employee (id, name) VALUES (1, 'Ana');
+INSERT INTO employee (id, name) VALUES (2, 'Ion');
+INSERT INTO employee (id, name) VALUES (3, 'Vasile');
+INSERT INTO employee (id, name) VALUES (4, 'Alexia');
+INSERT INTO employee (id, name) VALUES (5, 'Andreea');
+INSERT INTO employee (id, name) VALUES (6, 'Karla');
+INSERT INTO employee (id, name) VALUES (7, 'Adriana');
+INSERT INTO employee (id, name) VALUES (8, 'Raul');
+INSERT INTO employee (id, name) VALUES (9, 'Claudiu');
+INSERT INTO employee (id, name) VALUES (10, 'Adrian');
